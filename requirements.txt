@@ -6,4 +6,4 @@ jupyter
 notebook
 antspyx
 SimpleITK
-#antspynet
+antspynet
