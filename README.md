@@ -1,5 +1,5 @@
 # MRI-preprocessing-techniques in Python
-Code examples of the free course of [brain MRI preprocessing techniques in python](https://www.youtube.com/playlist?list=PLI3eIHxETjX4a5NMmgayg3wuM232fYIxy)
+Code examples of the free course in Youtube of [brain MRI preprocessing techniques in python](https://www.youtube.com/playlist?list=PLI3eIHxETjX4a5NMmgayg3wuM232fYIxy)
 
 ## Create virtualenv
 ```
