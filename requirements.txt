@@ -1,9 +1,10 @@
+uv
 ipykernel
 ipywidgets
 matplotlib
-opencv-python
+opencv-python-headless
 jupyter
 notebook
-antspyx
 SimpleITK
+antspyx
 antspynet
