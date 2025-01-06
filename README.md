@@ -29,7 +29,15 @@ jupyter-1  |         http://127.0.0.1:8888/tree?token={secret} <-- Open this url
 
 4. Browse the notebooks and execute them as you wish. You should be able to execute them.
 
-Please, feel free to report any issue o bug if you have any.
+Please, feel free to report any issue o bug if you have any. Tested and working in a laptop with following specs:
+```
+Windows 10 Home
+Python version 3.12.8
+CPU core i7 8550u
+NVIDIA GeForce MX130 2GB dedicated RAM
+8GB Ram
+```
+From my experience, the project should run normally in a pc with a processor of 2 cores(or more) and 8gb RAM(or more).
 
 ## About `/assets`
 I selected sample images and templates from the following sources
