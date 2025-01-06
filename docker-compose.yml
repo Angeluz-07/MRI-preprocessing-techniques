@@ -1,0 +1,10 @@
+services:
+  jupyter:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/app/notebooks
+      - ./assets:/app/assets
+    environment:
+      - JUPYTER_ENABLE_LAB=true
